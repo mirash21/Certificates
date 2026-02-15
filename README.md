@@ -6,4 +6,5 @@
 <img width="2880" height="1620" alt="diploma22521009" src="https://github.com/user-attachments/assets/c05a50b0-c3a5-49c8-87d0-7ae9dbf8cfcd" />
 <img width="1117" height="790" alt="Diplom_Python" src="https://github.com/user-attachments/assets/f5d212a8-37e5-43dd-9a50-1150310242e5" />
 <img width="1920" height="1080" alt="diploma23583780" src="https://github.com/user-attachments/assets/3f3804b4-7cca-4ef8-8f15-759206142b7c" />
+<img width="1920" height="1080" alt="diploma23585711" src="https://github.com/user-attachments/assets/887f2f51-6c02-4087-9650-e4dc1c3b0a48" />
 
